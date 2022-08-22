@@ -1,0 +1,9 @@
+/* LOGIN */
+body.login {background: linear-gradient(90deg, rgba(157,71,107,1) 0%, rgba(20,20,18,1) 25%, rgba(20,20,18,1) 71%, rgba(157,71,107,1) 100%) !important;}
+body.login a, p#backtoblog a, p#nav a, .dashicons-translation:before {color: #ffffff !important;}
+input#wp-submit {background: #944365;border: none;}
+.dashicons-visibility:before {color: #944365 !important;}
+.login h1 a {background-image: url('Logo Ludi 2018_White_mini.png');background-size: 260px;height: 80px;width: 320px;}
+form#registerform>h2 {display: none !important;}
+body.login.js.login-action-register {height: auto !important;}
+body.login.js.login-action-login {height: 100% !important;}

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="211" viewBox="0 0 1440 211">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_271" data-name="Rectangle 271" width="447" height="211" transform="translate(993 87)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0a5ca8"/>
+      <stop offset="1" stop-color="#141412"/>
+    </radialGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_272" data-name="Rectangle 272" width="396" height="211" transform="translate(0 87)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_273" data-name="Rectangle 273" width="901" height="211" transform="translate(539 87)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_397" data-name="Groupe 397" transform="translate(-7257 -9076)">
+    <g id="Groupe_396" data-name="Groupe 396" transform="translate(7257 9076)">
+      <rect id="Rectangle_152" data-name="Rectangle 152" width="1440" height="211" fill="#141412"/>
+    </g>
+    <g id="Groupe_de_masques_28" data-name="Groupe de masques 28" transform="translate(7257 8989)" clip-path="url(#clip-path)">
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="447.5" cy="447.5" r="447.5" transform="translate(993 32)" fill="url(#radial-gradient)"/>
+    </g>
+    <g id="Groupe_de_masques_29" data-name="Groupe de masques 29" transform="translate(7257 8989)" clip-path="url(#clip-path-2)">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="447.5" cy="447.5" r="447.5" transform="translate(-499 -559)" fill="url(#radial-gradient)"/>
+    </g>
+    <g id="Groupe_de_masques_30" data-name="Groupe de masques 30" transform="translate(7257 8989)" clip-path="url(#clip-path-3)">
+      <g id="Groupe_3" data-name="Groupe 3" transform="translate(500.682 141.682)">
+        <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(245.318 -174.682)" fill="none" stroke="#0a5ca8" stroke-width="1" opacity="0.8">
+          <circle cx="229" cy="229" r="229" stroke="none"/>
+          <circle cx="229" cy="229" r="228.5" fill="none"/>
+        </g>
+        <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(141.318 -278.682)" fill="none" stroke="#0a5ca8" stroke-width="1" opacity="0.6">
+          <circle cx="332.5" cy="332.5" r="332.5" stroke="none"/>
+          <circle cx="332.5" cy="332.5" r="332" fill="none"/>
+        </g>
+        <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(38.318 -381.682)" fill="none" stroke="#0a5ca8" stroke-width="1" opacity="0.401">
+          <circle cx="436.5" cy="436.5" r="436.5" stroke="none"/>
+          <circle cx="436.5" cy="436.5" r="436" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

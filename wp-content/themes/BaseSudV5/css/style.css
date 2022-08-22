@@ -1,0 +1,118 @@
+body {
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  .conteneur {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    max-height: 95vh;
+  }
+  
+  .jeux, .alphabetique, .selectionnes {
+    overflow: auto;
+  }
+  
+  .alphabetique {
+    width: 80px;
+    text-align: center;
+  }
+  .alphabetique a {
+    text-transform: uppercase;
+    background-color: #f7941d;
+    border: 1px solid #a85e06;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    display: block;
+    text-align: center;
+    margin: 0 auto 5px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .recherche {
+    margin-bottom: 15px;
+  }
+  
+  #recherche {
+    margin-left: 5px;
+    width: 90%;
+  }
+  
+  .jeux {
+    padding-left: 10px;
+  }
+  .jeux li {
+    margin-bottom: 3px;
+  }
+  
+  .jeu-selectionne {
+    display: none !important;
+  }
+  
+  .selectionnes {
+    border: 1px solid darkgrey;
+    width: 95%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 20px;
+    border-style: dotted;
+  }
+  
+  .selectionnes-hover {
+    background-color: lightblue;
+  }
+  
+  #jeux-selectionnes li {
+    display: inline-block;
+    margin: 5px;
+    padding: 3px 5px;
+    border-radius: 4px;
+    background-color: lightgrey;
+    color: black;
+    font-weight: bold;
+  }
+  #jeux-selectionnes li i {
+    margin-left: 5px;
+    cursor: pointer;
+    color: white;
+  }
+  
+  #valider {
+    text-align: center;
+  }
+  
+  #bouton-valider {
+    background: #d4edda;
+    color: #155724;
+    border: 1px solid #155724;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  #erreur {
+    margin-top: 20px;
+    color: red;
+  }
+  
+  .draggable {
+    cursor: move;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: auto;
+  }
+  
+  .lettre-inactive {
+    background-color: grey !important;
+  }
